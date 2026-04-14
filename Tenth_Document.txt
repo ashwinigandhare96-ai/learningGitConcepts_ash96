@@ -1,0 +1,5 @@
+this is the tenth document that we are writing in this file directory
+
+this is more about enahanced version of got ecosystem
+here we need to provide more information and clarity aboit the code
+
